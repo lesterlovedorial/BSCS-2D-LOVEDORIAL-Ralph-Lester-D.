@@ -1,0 +1,89 @@
+body {
+    background-color:burlywood;
+    background-image: url(https://st.depositphotos.com/3470617/4920/v/950/depositphotos_49203413-stock-illustration-pizza-background.jpg);
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+h1, h2, p {
+    text-align: center;
+    font-family: Impact, serif;
+    font-style: oblique;
+}
+
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+
+.established{
+    font-style: italic;
+}
+
+.menu{
+    width: 80%;
+    background-color:darkorange;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.flavor{
+    text-align: left;
+    width: 50%;
+}
+
+.price{
+    text-align: right;
+    width: 50%;
+}
+
+.item p{
+    display: inline-block;
+}
+
+h1, h2 {
+    font-family: impact, serif;
+}
+
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.flavor, .drink {
+    text-align: left;
+    width: 75%;
+}
+
+.price {
+    text-align: right;
+    width: 25%;
+}
+
+hr {
+    height: 2%;
+    background-color: red;
+    border-color:red;
+    border-width: 1px;
+}
+
+
+footer{
+    background-color:burlywood;
+}
+* {
+    text-align: justify;
+}
+
+
+
+
+
